@@ -1,11 +1,11 @@
 Model Information:
-* title:	Ice Cream
-* source:	https://sketchfab.com/3d-models/ice-cream-bf4ff7b32353493f8bea7835ebdf7e18
-* author:	DANIEL WEINLEIN (https://sketchfab.com/danielweinlein)
+* title:	Neon Ice Cream
+* source:	https://sketchfab.com/3d-models/neon-ice-cream-7da02269f3984896b8d9a73a111aee08
+* author:	dhar (https://sketchfab.com/Dharia.Pitman)
 
 Model License:
-* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
-* requirements:	Author must be credited. No commercial use.
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Ice Cream" (https://sketchfab.com/3d-models/ice-cream-bf4ff7b32353493f8bea7835ebdf7e18) by DANIEL WEINLEIN (https://sketchfab.com/danielweinlein) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+This work is based on "Neon Ice Cream" (https://sketchfab.com/3d-models/neon-ice-cream-7da02269f3984896b8d9a73a111aee08) by dhar (https://sketchfab.com/Dharia.Pitman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
